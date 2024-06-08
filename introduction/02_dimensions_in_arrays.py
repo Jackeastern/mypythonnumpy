@@ -21,3 +21,5 @@ print(f'This array has {d_3_array.ndim} dimensions\n{d_3_array}\n\n')
 # Higher Dimensional Arrays
 d_5_array = np.array([1,2,3,4], ndmin=5)
 print(f'This array has {d_5_array.ndim} dimensions\n{d_5_array}\n\n')
+
+# Check size of array with .ndim
